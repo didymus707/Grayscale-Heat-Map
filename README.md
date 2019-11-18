@@ -42,7 +42,7 @@ Specs to the Project can be found [here](https://www.theodinproject.com/courses/
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Click on this [link](https://raw.githack.com/didymus707/Grayscale-Heat-Map/contents/index.html) to check out the live version of the project
+Click on this [link](https://raw.githack.com/didymus707/Grayscale-Heat-Map/master/index.html) to check out the live version of the project
 
 
 <!-- CONTRIBUTING -->
