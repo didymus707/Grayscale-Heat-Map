@@ -10,8 +10,8 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background: #444444;
-    color: #fff
+    background: #444;
+    color: #fff;
 }
 
 .box {
@@ -37,7 +37,7 @@
 }
 
 .topic {
-    flex: 1 1 ;
+    flex: 1 1;
 }
 
 .topic h3 {
@@ -252,7 +252,7 @@
     word-spacing: 4px;
     font-size: 20px;
     letter-spacing: 0.8px;
-    margin-bottom: 24px;; 
+    margin-bottom: 24px;
 }
 
 .right {
@@ -261,12 +261,12 @@
 
 .author {
     color: #737373;
-    font-size: 22px
+    font-size: 22px;
 }
 
 .s-title {
     font-weight: bold;
-    font-size: 30px
+    font-size: 30px;
 }
 
 .discus {
@@ -275,7 +275,7 @@
 
 .download {
     width: 100%;
-    height:200px;
+    height: 200px;
     background: darkgrey;
     display: flex;
     justify-content: center;
